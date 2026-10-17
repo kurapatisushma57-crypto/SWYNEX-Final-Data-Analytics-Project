@@ -48,3 +48,18 @@ It includes KPI cards, income and education charts, workclass distribution, work
 This project demonstrates a complete data analytics workflow, from data cleaning and exploratory analysis to interactive visualization and business insights.
 
 The findings describe associations in this dataset and do not prove that education or working hours directly cause higher income.
+
+## Dashboard Preview
+
+![Power BI Interactive Dashboard](dashboard_preview.png)
+
+## Project Files
+
+- `cleaned_dataset.csv` — cleaned dataset used for analysis.
+- `SWYNEX_Task2_EDA.ipynb` — exploratory data analysis notebook.
+- `SWYNEX_Interactive_Dashboard.pbix` — interactive Power BI dashboard.
+- `dashboard_preview.png` — dashboard screenshot.
+
+## Project Repository
+
+This repository combines data cleaning, exploratory data analysis, and interactive visualization into one data analytics case study.
